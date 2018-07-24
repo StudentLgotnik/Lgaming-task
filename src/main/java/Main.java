@@ -1,11 +1,10 @@
-import com.project.lgaming.MyConnection;
 
+import com.project.lgaming.MyConnection;
 
 import java.io.IOException;
 import java.security.SignatureException;
 
 public class Main {
-
     private static final String VERIFY_PATH = "D:\\OwnProjects\\Vacancy\\lgaming task\\src\\main\\resources\\verify.xml";
     private static final String PAYMENT_PATH = "D:\\OwnProjects\\Vacancy\\lgaming task\\src\\main\\resources\\payment.xml";
     private static final String STATUS_PATH = "D:\\OwnProjects\\Vacancy\\lgaming task\\src\\main\\resources\\status.xml";
